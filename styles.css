@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.header {
+  background-color: hsla(230, 33%, 48%, 0.78);
+  color: hsla(42, 100%, 77%, 0.86);
+  font-family: "Roboto", "Helvetica", "Tahoma", sans-serif;
+  padding: 1em;
+}
+
+div.header h1 {
+  font-size: 3em;
+}
+
+div.header p {
+  font-style: italic;
+}
