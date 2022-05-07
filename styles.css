@@ -4,7 +4,7 @@
   background-color: hsla(230, 33%, 48%, 0.78);
   color: hsla(42, 100%, 77%, 0.86);
   font-family: "Roboto", "Helvetica", "Tahoma", sans-serif;
-  padding: 1em;
+  padding: 1ex;
 }
 
 div.header h1 {
@@ -13,4 +13,21 @@ div.header h1 {
 
 div.header p {
   font-style: italic;
+}
+
+.recipe-list {
+  background-color: lightgrey;
+  border-color: transparent;
+  border-spacing: 2ex;
+  font-family: "Roboto", "Helvetica", "Tahoma", sans-serif;
+  margin: 1em;
+  padding: 1em;
+}
+
+.popular {
+  font-weight: bold;
+}
+
+.secondary {
+  font-size: 2ex;
 }
