@@ -16,7 +16,8 @@
   padding: 1ex;
 }
 
-.recipe-list {
+.recipe-list,
+.recipe-figure {
   background-color: lightgrey;
   border-color: transparent;
   border-spacing: 2ex;
