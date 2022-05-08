@@ -13,17 +13,16 @@
   background-color: hsla(230, 33%, 48%, 0.78);
   color: hsla(42, 100%, 77%, 0.86);
   font-family: "Roboto", "Helvetica", "Tahoma", sans-serif;
-  padding: 1ex;
+  padding: 1em;
 }
 
 .recipe-list,
 .recipe-figure {
-  background-color: lightgrey;
-  border-color: transparent;
-  border-spacing: 2ex;
+  background-color: #d3d3d3;
+  border: 2px solid #a9a9a9;
   font-family: "Roboto", "Helvetica", "Tahoma", sans-serif;
   margin: 1em;
-  padding: 1em;
+  padding-left: 1ex;
 }
 
 .popular {
